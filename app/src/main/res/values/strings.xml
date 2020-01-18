@@ -1,0 +1,16 @@
+<resources>
+    <string name="header_main">Movie &amp; Tv Show Catalogue</string>
+    <string name="header_detail">Detail</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="label_description">Description</string>
+    <string name="label_user_score">User Score</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="img_description_poster">Movie Poster</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="error_fetch">Oops, failed to retrieve data from server</string>
+    <string name="error_no_transalation">Translation not found</string>
+    <string name="error_no_runtime">Unknown</string>
+    <string name="error_parse">Error parsing data from server</string>
+</resources>
